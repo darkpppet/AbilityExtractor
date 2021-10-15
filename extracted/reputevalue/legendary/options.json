@@ -1,0 +1,186 @@
+{
+  "AbilityName": "명성치",
+  "GradeName": "레전드리",
+  "Options": [
+    {
+      "Name": "STR 증가",
+      "Probability": "4.00%"
+    },
+    {
+      "Name": "DEX 증가",
+      "Probability": "4.00%"
+    },
+    {
+      "Name": "INT 증가",
+      "Probability": "4.00%"
+    },
+    {
+      "Name": "LUK 증가",
+      "Probability": "4.00%"
+    },
+    {
+      "Name": "방어력 증가",
+      "Probability": "1.78%"
+    },
+    {
+      "Name": "최대 HP 증가",
+      "Probability": "1.78%"
+    },
+    {
+      "Name": "최대 MP 증가",
+      "Probability": "1.78%"
+    },
+    {
+      "Name": "점프력 증가",
+      "Probability": "-"
+    },
+    {
+      "Name": "이동속도 증가",
+      "Probability": "-"
+    },
+    {
+      "Name": "공격력 증가",
+      "Probability": "2.22%"
+    },
+    {
+      "Name": "마력 증가",
+      "Probability": "2.22%"
+    },
+    {
+      "Name": "크리티컬 확률 % 증가",
+      "Probability": "0.44%"
+    },
+    {
+      "Name": "모든 능력치 증가",
+      "Probability": "1.78%"
+    },
+    {
+      "Name": "공격 속도 단계 증가",
+      "Probability": "0.44%"
+    },
+    {
+      "Name": "AP를 직접 투자한 STR의 % 만큼 DEX 증가",
+      "Probability": "2.22%"
+    },
+    {
+      "Name": "AP를 직접 투자한 DEX의 % 만큼 STR 증가",
+      "Probability": "2.22%"
+    },
+    {
+      "Name": "AP를 직접 투자한 INT의 % 만큼 LUK 증가",
+      "Probability": "2.22%"
+    },
+    {
+      "Name": "AP를 직접 투자한 LUK의 % 만큼 DEX 증가",
+      "Probability": "2.22%"
+    },
+    {
+      "Name": "일정 레벨마다 공격력 1 증가",
+      "Probability": "2.22%"
+    },
+    {
+      "Name": "일정 레벨마다 마력 1 증가",
+      "Probability": "2.22%"
+    },
+    {
+      "Name": "방어력 % 증가",
+      "Probability": "2.22%"
+    },
+    {
+      "Name": "최대 HP % 증가",
+      "Probability": "1.78%"
+    },
+    {
+      "Name": "최대 MP % 증가",
+      "Probability": "1.78%"
+    },
+    {
+      "Name": "보스 몬스터 공격 시 데미지 % 증가",
+      "Probability": "2.22%"
+    },
+    {
+      "Name": "일반 몬스터 공격 시 데미지 % 증가",
+      "Probability": "1.78%"
+    },
+    {
+      "Name": "상태 이상에 걸린 대상 공격 시 데미지 % 증가",
+      "Probability": "1.78%"
+    },
+    {
+      "Name": "방어력의 % 만큼 데미지 고정값 증가",
+      "Probability": "1.78%"
+    },
+    {
+      "Name": "스킬 사용 시 % 확률로 재사용 대기시간이 미적용",
+      "Probability": "1.78%"
+    },
+    {
+      "Name": "패시브 스킬 레벨 증가",
+      "Probability": "0.71%"
+    },
+    {
+      "Name": "다수 공격 스킬의 공격 대상 증가",
+      "Probability": "0.71%"
+    },
+    {
+      "Name": "버프 스킬의 지속 시간 % 증가",
+      "Probability": "0.89%"
+    },
+    {
+      "Name": "아이템 드롭률 % 증가",
+      "Probability": "1.78%"
+    },
+    {
+      "Name": "메소 획득량 % 증가",
+      "Probability": "1.78%"
+    },
+    {
+      "Name": "STR, DEX 증가",
+      "Probability": "3.11%"
+    },
+    {
+      "Name": "STR, INT 증가",
+      "Probability": "3.11%"
+    },
+    {
+      "Name": "STR, LUK 증가",
+      "Probability": "3.11%"
+    },
+    {
+      "Name": "DEX, INT 증가",
+      "Probability": "3.11%"
+    },
+    {
+      "Name": "DEX, LUK 증가",
+      "Probability": "3.11%"
+    },
+    {
+      "Name": "INT, LUK 증가",
+      "Probability": "3.11%"
+    },
+    {
+      "Name": "DEX, STR 증가",
+      "Probability": "3.11%"
+    },
+    {
+      "Name": "INT, STR 증가",
+      "Probability": "3.11%"
+    },
+    {
+      "Name": "LUK, STR 증가",
+      "Probability": "3.11%"
+    },
+    {
+      "Name": "INT, DEX 증가",
+      "Probability": "3.11%"
+    },
+    {
+      "Name": "LUK, DEX 증가",
+      "Probability": "3.11%"
+    },
+    {
+      "Name": "LUK, INT 증가",
+      "Probability": "3.11%"
+    }
+  ]
+}
